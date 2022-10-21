@@ -5,7 +5,7 @@
 function Header() {
 
 return (
-<h2>
+<h2 className="header">
 
 'Josh's Movie App'
 
